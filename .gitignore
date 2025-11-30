@@ -1,0 +1,6 @@
+lxc.pass
+.DS_Store
+*.log
+.vscode/
+*.swp
+*~
